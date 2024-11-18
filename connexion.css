@@ -1,0 +1,47 @@
+body {
+    margin: 0; /* Supprime les marges par défaut du corps */
+    height: 100vh; /* Hauteur de la fenêtre du navigateur */
+    background-image: url('f.jpg'); /* Chemin vers votre image */
+    background-size: cover; /* Couvre tout l'écran */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Ne pas répéter l'image */
+}
+
+.left{
+
+    margin-left: 600px;
+
+    margin-bottom: 25px;
+
+    margin-top: 100px;
+
+}
+
+
+#decaler{
+
+    margin-left: 650px;
+
+}
+
+
+#connexionn{
+
+    margin-top: 100px;
+
+}
+
+.form-container {
+    max-width: 400px; /* Largeur maximale du formulaire */
+    margin: 0 auto;    /* Centrer le formulaire */
+    padding-top: 50px; /* Espace au-dessus du formulaire */
+}
+.form-control {
+    background-color: #e9f0ff; /* Couleur de fond des champs */
+    text-align: center;        /* Centrer le texte des champs */
+}
+.error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}

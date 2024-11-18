@@ -1,0 +1,25 @@
+.decaler{
+
+    margin-left: 500px; 
+
+}
+
+.acceuil{
+
+    margin-left: 350px;
+}
+
+body {
+    margin: 0; /* Supprime les marges par défaut du corps */
+    height: 100vh; /* Hauteur de la fenêtre du navigateur */
+    background-image: url('r7.jpeg'); /* Chemin vers votre image */
+    background-size: cover; /* Couvre tout l'écran */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Ne pas répéter l'image */
+}
+.affichage
+{
+    font-size: 50px;
+    color: white;
+}
+
